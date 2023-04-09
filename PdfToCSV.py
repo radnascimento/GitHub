@@ -41,14 +41,3 @@ for line in linhas:
 	linha = linha + 1
 
 f.close()
-
-
-
-#fw = open("DadosDoPDF.csv", "w")
-#fw.write(context)
-#fw.close()
-
-
-
-
-
